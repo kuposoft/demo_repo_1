@@ -1,0 +1,13 @@
+ 
+https://us-east-1.console.aws.amazon.com/cloudshell/home?region=us-east-1#f3acb552-610a-45d6-a0f3-ae3364c93f9a
+
+
+aws cognito-idp admin-set-user-password --user-pool-id us-east-1_bZiUjbXp0 --username user2021@tuxpas.com --password User2021 --permanent
+
+aws cognito-idp admin-set-user-password --user-pool-id us-east-1_bZiUjbXp0 --username rosaluz.ccucho@latinka.com.pe --password RcUser2022 --permanent
+
+aws cognito-idp admin-set-user-password --user-pool-id us-east-1_bZiUjbXp0 --username patricia.huertas@latinka.com.pe --password PhUser2022 --permanent
+
+aws cognito-idp admin-set-user-password --user-pool-id us-east-1_bZiUjbXp0 --username tuxintralot@gmail.com --password User2022 --permanent
+
+tuxintralot@gmail.com
